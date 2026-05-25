@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+*.tar.gz
+
+# Intermediate Epoch Models
+*_epoch_*.pth
