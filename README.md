@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hệ thống Trí tuệ Nhân tạo Nhận diện và Phân tích Hình học 2D</h1>
+  <h1>CNN</h1>
 
   <div>
     <img src="https://img.shields.io/badge/NEXT.JS-15.0-black?style=for-the-badge&logo=next.js" alt="Next.js" />
@@ -13,7 +13,7 @@
 
 <br />
 
-## 📖 Giới thiệu dự án
+##  Giới thiệu dự án
 
 Dự án **Hệ thống Trí tuệ Nhân tạo Nhận diện và Phân tích Hình học 2D** là một hệ sinh thái toàn diện kết hợp giữa các mô hình Deep Learning tiên tiến (CNN) và kiến trúc Web hiện đại. 
 
@@ -21,7 +21,7 @@ Trong kho lưu trữ này chứa các thành phần cốt lõi về **Trí tuệ
 
 ---
 
-## 🚀 Các tính năng AI cốt lõi
+##  Các tính năng AI cốt lõi
 
 ### 1. Nhận diện khuôn mặt (Face ID)
 *   **File chính:** `faceid.py`
@@ -74,7 +74,7 @@ graph LR
 
 ---
 
-## ⚙️ Cài đặt và cấu hình
+##  Cài đặt và cấu hình
 
 ### 1. Yêu cầu hệ thống
 *   Python 3.11+
@@ -97,7 +97,7 @@ pip install facenet-pytorch
 
 ---
 
-## 💻 Hướng dẫn sử dụng
+##  Hướng dẫn sử dụng
 
 ### Chạy hệ thống Nhận diện chữ số (MNIST)
 1. Huấn luyện mô hình: `python tichchap.py` (Tạo ra file `mnist_cnn_model.pth`).
@@ -123,7 +123,7 @@ pip install facenet-pytorch
 
 ---
 
-## 🏗️ Kiến trúc toàn hệ thống (Fullstack)
+## Kiến trúc toàn hệ thống (Fullstack)
 Như đã đề cập ở header, đây là phần AI của một hệ thống lớn hơn. Kiến trúc tổng thể dự kiến hoạt động như sau:
 *   **Frontend (Next.js 15, React 19, TypeScript 5):** Giao diện người dùng Web App hiện đại, gửi hình ảnh/video stream lên server.
 *   **Backend (FastAPI, Python 3.11):** Xử lý API tốc độ cao, nhận dữ liệu và điều phối các task AI.
